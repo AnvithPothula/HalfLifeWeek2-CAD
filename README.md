@@ -1,6 +1,8 @@
 # HalfLifeWeek2-CAD
 **Merbl Guide:** https://github.com/karnxx/merbl/blob/main/guide.md
 
+**My project:** https://cad.onshape.com/documents/eef34ff6aac3df2e3823ebc7/w/965d602a61f020e2ae6cffc8/e/b4a4600d7486f63eae61b30a?renderMode=0&uiState=6adfd530e5fd04602f649683
+
 I designed a 3D-printed marble race course in Onshape following the Hack Club Half Life Week 2 guide. The guide was super helpful for learning the core Onshape tools, and I used it to build a complete course from scratch.
 
 To add my own twist and go beyond a single basic path, I designed two separate tracks that run in opposite directions and merge at the end. I also wanted to include every custom obstacle from the guide, so my course features a funnel, a staircase, a plinko board, and a catch box at the bottom.
