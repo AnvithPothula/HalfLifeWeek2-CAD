@@ -39,3 +39,10 @@ I used the guide to help with a lot of these steps.
 4. Check the support placement. To do this, preview the sliced layers to make sure supports only touch the outside of the tracks and obstacles. Make sure no supports are generated inside the track channels, funnel, or plinko pegs where they could block the marble.
 5. Print the course and the 8mm marble using standard PLA (0.2mm layer height, 15% infill).
 6. Test: Once the print finishes, leave the main tree supports attached to the baseplate to keep the tracks mounted, clear away any stray stringing inside the paths, and drop the marble at the top of either track to race!
+
+**BOM:**
+
+| Item | Qty | Supplier | Cost/item | Total Cost | Link |
+|---|---:|---|---:|---:|---|
+| 3D printing | 1 | Printing Legion | $18.00 | $18.00 | [Printing Legion](https://hackclub.slack.com/archives/C083P4FJM46/p1792359524697869) |
+| Total |  |  |  | $18.00 |  |
